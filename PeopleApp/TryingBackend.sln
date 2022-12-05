@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryingBackend", "TryingBackend\TryingBackend.csproj", "{FC6A6786-5156-4DDF-AA2D-A7370F81E8D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleApi.Test", "PersonApi.Test\PeopleApi.Test.csproj", "{F9C5039E-F389-451D-B271-FA152FDB813B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6A6786-5156-4DDF-AA2D-A7370F81E8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6A6786-5156-4DDF-AA2D-A7370F81E8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6A6786-5156-4DDF-AA2D-A7370F81E8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6A6786-5156-4DDF-AA2D-A7370F81E8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C5039E-F389-451D-B271-FA152FDB813B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C5039E-F389-451D-B271-FA152FDB813B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C5039E-F389-451D-B271-FA152FDB813B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C5039E-F389-451D-B271-FA152FDB813B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C5376F-E8A4-47DD-A985-3D896A852C1C}
+	EndGlobalSection
+EndGlobal

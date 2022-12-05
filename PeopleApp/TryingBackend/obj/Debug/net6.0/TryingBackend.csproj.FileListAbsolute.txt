@@ -1,0 +1,70 @@
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\TryingBackend.exe
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\TryingBackend.deps.json
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\TryingBackend.runtimeconfig.json
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\TryingBackend.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\TryingBackend.pdb
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.csproj.AssemblyReference.cache
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.AssemblyInfoInputs.cache
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.AssemblyInfo.cs
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.csproj.CoreCompileInputs.cache
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\scopedcss\bundle\TryingBackend.styles.css
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.csproj.CopyComplete
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\refint\TryingBackend.dll
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.pdb
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\TryingBackend.genruntimeconfig.cache
+C:\Users\SaurabhSomani\Desktop\TryingBackend\TryingBackend\obj\Debug\net6.0\ref\TryingBackend.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\TryingBackend.exe
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\TryingBackend.deps.json
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\TryingBackend.runtimeconfig.json
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\TryingBackend.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\TryingBackend.pdb
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.csproj.AssemblyReference.cache
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.AssemblyInfoInputs.cache
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.AssemblyInfo.cs
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.csproj.CoreCompileInputs.cache
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\scopedcss\bundle\TryingBackend.styles.css
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.csproj.CopyComplete
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\refint\TryingBackend.dll
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.pdb
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\TryingBackend.genruntimeconfig.cache
+C:\Users\SaurabhSomani\Documents\CODE\Saurabh\onsolve.training\Saurabh Somani\PeopleApp\TryingBackend\obj\Debug\net6.0\ref\TryingBackend.dll
